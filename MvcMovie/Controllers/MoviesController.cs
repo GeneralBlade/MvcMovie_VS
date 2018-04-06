@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Models;
 
+//Комментарий для проверки записи изменений на GitHub 
+
 namespace MvcMovie.Controllers
 {
     public class MoviesController : Controller
